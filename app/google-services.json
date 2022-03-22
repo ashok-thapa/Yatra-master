@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "423767929092",
+    "firebase_url": "https://yatra-c5c81-default-rtdb.firebaseio.com",
+    "project_id": "yatra-c5c81",
+    "storage_bucket": "yatra-c5c81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423767929092:android:a5b6f1a8bba8fbedcbe051",
+        "android_client_info": {
+          "package_name": "com.example.aclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423767929092-e11cskasevj1val08imepnqc58ausjkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYwjroYVcUWDb095aLBY8EOqZe0TU_Uh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423767929092-e11cskasevj1val08imepnqc58ausjkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423767929092:android:ad5e50ca572b6c87cbe051",
+        "android_client_info": {
+          "package_name": "com.example.yatra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423767929092-upeblsstjj76s09ifdqhh97j1fh4bmmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yatra",
+            "certificate_hash": "f28a39bf1a436e006f233962f13267c9fd8762c1"
+          }
+        },
+        {
+          "client_id": "423767929092-e11cskasevj1val08imepnqc58ausjkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYwjroYVcUWDb095aLBY8EOqZe0TU_Uh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423767929092-e11cskasevj1val08imepnqc58ausjkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
